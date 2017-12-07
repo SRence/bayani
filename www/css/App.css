@@ -1,0 +1,34 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 160px;
+  width: 240px;
+
+}
+
+.App-header {
+  background: rgba(35,45,70,2.5);
+  height: 200px;
+  padding: 60px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+body {
+    font-family: "Lato", sans-serif;
+	background-color: black;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
